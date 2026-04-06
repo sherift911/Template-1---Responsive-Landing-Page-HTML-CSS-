@@ -1,2 +1,49 @@
-# Template-1---Responsive-Landing-Page-HTML-CSS-
-A modern responsive landing page built using HTML and CSS. It features multiple sections such as services, portfolio, about, and contact with a clean and minimal UI design.
+# 🌐Template 1 - Responsive Landing Page
+
+A modern and responsive landing page built using HTML and CSS. This project focuses on clean UI design, layout structure, and responsive behavior across different screen sizes.
+![Template-1---Responsive-Landing-Page-HTML-CSS-](images/site.png)
+
+---
+
+## ✨ Features
+- Fully responsive design
+- Clean and modern UI
+- Multi-section layout (Services, Portfolio, About, Contact)
+- Hover effects and smooth interactions
+- Font Awesome icons integration
+- Google Fonts styling
+
+---
+
+## 🧱 Sections
+- Header with navigation menu
+- Hero / Landing section
+- Features section
+- Services section
+- Portfolio section
+- About section
+- Contact section
+- Footer
+
+---
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Flexbox & Grid
+- Font Awesome
+- Google Fonts
+
+---
+
+## 📸 Preview
+(Add screenshot or GIF here)
+
+---
+
+## 🚀 How to Run
+Just open the `index.html` file in your browser.
+
+---
+
+## 📁 Project Structure
