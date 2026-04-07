@@ -49,3 +49,21 @@ Just open the `index.html` file in your browser.
 ---
 
 ## 📁 Project Structure
+/css
+/images
+index.html
+
+
+---
+
+## 💡 What I Learned
+- Responsive layout design
+- CSS Grid & Flexbox
+- UI structuring
+- Component-based styling
+
+---
+
+## 👨‍💻 Author
+Made with ❤️ using HTML & CSS
+
