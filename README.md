@@ -38,11 +38,6 @@ A modern and responsive landing page built using HTML and CSS. This project focu
 
 ---
 
-## 📸 Preview
-(Add screenshot or GIF here)
-
----
-
 ## 🚀 How to Run
 Just open the `index.html` file in your browser.
 
