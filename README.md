@@ -2,7 +2,7 @@
 
 A modern and responsive landing page built using HTML and CSS. This project focuses on clean UI design, layout structure, and responsive behavior across different screen sizes.
 ## 🌐 Live Demo
-👉 [View Project]( https://sherift911.github.io/Template-1---Responsive-Landing-Page-HTML-CSS-/)
+👉 [View Project]( https://sherifkhater-dev.github.io/Template-1---Responsive-Landing-Page-HTML-CSS-/)
 ![Template-1---Responsive-Landing-Page-HTML-CSS-](images/site.png)
 
 ---
